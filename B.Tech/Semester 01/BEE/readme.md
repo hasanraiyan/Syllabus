@@ -43,3 +43,4 @@
 - [ ] Components of LT Switchgear: Switch Fuse Unit (SFU), MCB, ELCB, MCCB, Types of Wires and Cables, Earthing
 - [ ] Types of Batteries, Important Characteristics for Batteries
 - [ ] Elementary Calculations for Energy Consumption, Power Factor Improvement, and Battery Backup
+
