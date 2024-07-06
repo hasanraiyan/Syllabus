@@ -3,8 +3,8 @@
 - [x] Usage of drawing instruments
 - [x] Lettering
 - [x] Conic sections including the rectangular hyperbola (general method only)
-- [ ] Cycloid: Epicycloid & Hypocycloid
-- [ ] Involutes
+- [x] Cycloid: Epicycloid & Hypocycloid
+- [x] Involutes
 - [x] Scales: Plain, diagonal, and vernier scales
 
 ## 1. Principles of Engineering Graphics and their Significance
