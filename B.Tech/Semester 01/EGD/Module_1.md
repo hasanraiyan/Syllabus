@@ -127,7 +127,8 @@ Sure, here are the examples of the two common lettering styles used in engineeri
 [Image of Single-Stroke Gothic Lettering]
 
 2. **Upper-Case Block Lettering**
-(Image of Upper-Case Block Lettering)[https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwoVvjYVAQf2cKSnI1l75yjy0bn3IQUdenkw1WwWxS3MqTR5wNnuaXQjC7tCvi]
+
+<img title="Image of Upper-Case Block Lettering" alt="Image of Upper-Case Block Lettering" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwoVvjYVAQf2cKSnI1l75yjy0bn3IQUdenkw1WwWxS3MqTR5wNnuaXQjC7tCvi">
 
 These styles prioritize clarity and consistency to ensure the information on the drawings are easily readable and professional-looking.  Each letterform is created with a focus on maintaining the same height, width, and spacing throughout the text.
 ---
