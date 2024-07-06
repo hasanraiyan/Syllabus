@@ -1,6 +1,4 @@
-Sure, I can help with that. Here is the data from the image, formatted in the style you requested:
 
----
 
 ## Engineering Graphics and Design
 
