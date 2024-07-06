@@ -7,7 +7,7 @@
 - [ ] Epicycloid
 - [ ] Hypocycloid
 - [ ] Involutes
-- [ ] Scales: Plain, diagonal, and vernier scales
+- [x] Scales: Plain, diagonal, and vernier scales
 
 ## 1. Principles of Engineering Graphics and their Significance
 
@@ -132,10 +132,10 @@ Sure, here are the examples of the two common lettering styles used in engineeri
 
 These styles prioritize clarity and consistency to ensure the information on the drawings are easily readable and professional-looking.  Each letterform is created with a focus on maintaining the same height, width, and spacing throughout the text.
 ---
-- [ ] Scales:
+- [x] Scales:
 - [x] Plain
-- [ ] diagonal
-- [ ] vernier scales
+- [x] diagonal
+- [x] vernier scales
 ## Understanding Scales: Plain, Diagonal, and Vernier Scales
 
 Scales are a crucial element in engineering drawings as they allow us to represent objects at a different size than their actual dimensions.  In essence, they act like a bridge between the real world and the drawing world. Let's explore three common types of scales used in engineering graphics:
