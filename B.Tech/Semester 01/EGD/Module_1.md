@@ -172,12 +172,11 @@ As we move forward, we can delve deeper into the construction and usage of each 
 
 ---
 
-
 - [x] Conic sections including the rectangular hyperbola (general method only)
 - [x] Ellipse
 - [x] Parabola
 - [x] Hyperbola
-- [ ] 
+
 
 
 
