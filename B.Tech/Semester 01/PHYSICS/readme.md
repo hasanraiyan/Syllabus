@@ -1,6 +1,6 @@
 # Physics
 
-- [ ] MODULE 1: SEMICONDUCTORS (08 LECTURES)
+- [x] MODULE 1: SEMICONDUCTORS (08 LECTURES)
   - [ ] Intrinsic and Extrinsic Semiconductors
   - [ ] Dependence of Fermi Level on Carrier Concentration and Temperature
   - [ ] Carrier Generation and Recombination
