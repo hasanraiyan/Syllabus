@@ -3,7 +3,12 @@
 - [x] MODULE 1: SEMICONDUCTORS (08 LECTURES)
 
   - [ ] Intrinsic and Extrinsic Semiconductors
-      ## Module 1: Semiconductors (Let's dive in!)
+  - [ ] Dependence of Fermi Level on Carrier Concentration and Temperature
+  - [ ] Carrier Generation and Recombination
+  - [ ] Carrier Transport: Diffusion and Drift
+  - [ ] P-N Junction
+        
+## Module 1: Semiconductors (Let's dive in!)
 
 This module is all about understanding semiconductors, the workhorses of modern electronics. We'll explore how these materials bridge the gap between conductors and insulators, and how their properties can be manipulated to control electrical current.
 
@@ -52,7 +57,4 @@ These are the core concepts of Module 1. As we progress through the lectures, we
 
 ---
 
-  - [ ] Dependence of Fermi Level on Carrier Concentration and Temperature
-  - [ ] Carrier Generation and Recombination
-  - [ ] Carrier Transport: Diffusion and Drift
-  - [ ] P-N Junction
+
