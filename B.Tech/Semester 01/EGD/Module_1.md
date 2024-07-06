@@ -105,7 +105,30 @@ There are two main approaches to lettering in engineering drawings:
 * **Professionalism:** Consistent and well-formed lettering reflects a professional approach to the design process.
 * **Standardization:**  Using standard lettering styles promotes consistency across different drawings and projects.
 
-As you progress in your engineering studies, you'll likely encounter a combination of both manual and CAD lettering techniques. 
+Absolutely! Let's explore some specific manual lettering styles since that's a foundational skill for understanding proper lettering in drawings. Here are two common styles:
 
+1. **Single-Stroke Gothic:**
+
+   * This is a popular choice for engineering drawings due to its simplicity and clarity.
+   * Each letter is formed with a single, continuous stroke for efficiency.
+   * Letters have consistent thickness and height, with specific proportions for width and spacing between them.
+
+2. **Upper-Case Block Lettering:**
+
+   * This style uses straight lines and right angles to create blocky letters.
+   * Each letter is essentially a rectangle with variations in width depending on the letter.
+   * Similar to single-stroke Gothic, it emphasizes consistent size and spacing for readability.
+
+Learning these styles involves practicing proper pen control and stroke technique. There are resources available online and in engineering graphics textbooks that provide detailed instructions and examples for each letter. 
+
+Sure, here are the examples of the two common lettering styles used in engineering drawings:
+
+1. **Single-Stroke Gothic**
+[Image of Single-Stroke Gothic Lettering]
+
+2. **Upper-Case Block Lettering**
+!(Image of Upper-Case Block Lettering)[https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwoVvjYVAQf2cKSnI1l75yjy0bn3IQUdenkw1WwWxS3MqTR5wNnuaXQjC7tCvi]
+
+These styles prioritize clarity and consistency to ensure the information on the drawings are easily readable and professional-looking.  Each letterform is created with a focus on maintaining the same height, width, and spacing throughout the text.
 ---
 
