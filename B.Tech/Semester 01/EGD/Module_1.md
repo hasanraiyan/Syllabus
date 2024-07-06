@@ -1,7 +1,7 @@
 ### Module 1: Introduction to Engineering Drawing
-- [ ] Principles of engineering graphics and their significance
-- [ ] Usage of drawing instruments
-- [ ] Lettering
+- [x] Principles of engineering graphics and their significance
+- [x] Usage of drawing instruments
+- [x] Lettering
 - [ ] Conic sections including the rectangular hyperbola (general method only)
 - [ ] Cycloid
 - [ ] Epicycloid
