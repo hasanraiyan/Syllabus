@@ -4,7 +4,7 @@
   - [x] [Intrinsic and Extrinsic Semiconductors](https://youtu.be/CXFtbpYaBXw?si=xIT6yt19uXmSPrmB)
   - [x] [Dependence of Fermi Level on Carrier Concentration and Temperature](https://youtu.be/6ShYjai83bA?si=SFT1wK6L7CLaHS8L)
   - [x] [Carrier Generation and Recombination](https://github.com/hasanraiyan/Syllabus/blob/main/B.Tech/Semester%2001/PHYSICS/Carrier-Generation-and-Recombination.md)
-  - [ ] Carrier Transport: Diffusion and Drift
+  - [x] [Carrier Transport: Diffusion and Drift](https://youtu.be/67QXoPW0eE0?si=gX0Wb4mHmtNBXHqf)
   - [ ] P-N Junction
 
 
