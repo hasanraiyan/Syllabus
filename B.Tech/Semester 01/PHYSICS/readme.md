@@ -1,8 +1,8 @@
 # Physics
 
 - [x] MODULE 1: SEMICONDUCTORS (08 LECTURES)
-  - [ ] Intrinsic and Extrinsic Semiconductors
-  - [ ] Dependence of Fermi Level on Carrier Concentration and Temperature
+  - [x] [Intrinsic and Extrinsic Semiconductors](https://youtu.be/CXFtbpYaBXw?si=xIT6yt19uXmSPrmB)
+  - [ ] [Dependence of Fermi Level on Carrier Concentration and Temperature](https://youtu.be/6ShYjai83bA?si=SFT1wK6L7CLaHS8L)
   - [ ] Carrier Generation and Recombination
   - [ ] Carrier Transport: Diffusion and Drift
   - [ ] P-N Junction
