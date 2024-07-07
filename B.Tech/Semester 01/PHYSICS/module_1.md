@@ -2,7 +2,7 @@
 
 - [x] MODULE 1: SEMICONDUCTORS (08 LECTURES)
 
-  - [ ] Intrinsic and Extrinsic Semiconductors
+  - [x] Intrinsic and Extrinsic Semiconductors
   - [ ] Dependence of Fermi Level on Carrier Concentration and Temperature
   - [ ] Carrier Generation and Recombination
   - [ ] Carrier Transport: Diffusion and Drift
