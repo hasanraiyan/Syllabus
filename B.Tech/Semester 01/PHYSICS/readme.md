@@ -5,10 +5,10 @@
   - [x] [Dependence of Fermi Level on Carrier Concentration and Temperature](https://youtu.be/6ShYjai83bA?si=SFT1wK6L7CLaHS8L)
   - [x] [Carrier Generation and Recombination](https://github.com/hasanraiyan/Syllabus/blob/main/B.Tech/Semester%2001/PHYSICS/Carrier-Generation-and-Recombination.md)
   - [x] [Carrier Transport: Diffusion and Drift](https://youtu.be/67QXoPW0eE0?si=gX0Wb4mHmtNBXHqf)
-  - [ ] P-N Junction
+  - [x] [P-N Junction](https://youtu.be/Z-mdnY2ObRg?si=n33TGcLKdMhGcxCL)
 
 
-- [ ] MODULE 2: ELECTRONIC MATERIALS (8 LECTURES)
+- [x] MODULE 2: ELECTRONIC MATERIALS (8 LECTURES)
   - [ ] Free Electron Theory
   - [ ] Density of States and Energy Band Diagrams
   - [ ] Kronig-Penny Model
