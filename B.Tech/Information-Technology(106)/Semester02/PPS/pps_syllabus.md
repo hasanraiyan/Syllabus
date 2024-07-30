@@ -7,10 +7,12 @@
   - Where a Program is Stored and Executed
   - Operating System
   - Compilers
+  
 - **Idea of Algorithm**
   - Steps to Solve Logical and Numerical Problems
   - Representation of Algorithm
-    - Flowchart/Pseudo Code with Examples
+  - Flowchart/Pseudo Code with Examples
+
 - **From Algorithms to Programs**
   - Source Code
   - Variables (with Data Types)
