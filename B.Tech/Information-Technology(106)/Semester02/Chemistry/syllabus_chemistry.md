@@ -4,18 +4,18 @@ Subject Code: 100203
 
 ### **MODULE 1: ATOMIC AND MOLECULAR STRUCTURE (10 LECTURES)**
 
-- [x] **Failure of Classical Mechanics**
+-  **Failure of Classical Mechanics**
   - Newtonian Mechanics
   - Maxwell Wave Mechanics
 
-- [x] **Properties of Particles at Atomic and Sub-Atomic Level**
+-  **Properties of Particles at Atomic and Sub-Atomic Level**
   - Electromagnetic Radiation
   - Dual Nature of Electron and Electromagnetic Radiation
   - Planck's Theory
   - Photoelectric Effect
   - Heisenberg Uncertainty Principle
 
-- [x] **Molecular Properties**
+-  **Molecular Properties**
   - Paramagnetic Properties
   - Principles for Combination of Atomic Orbitals to Form Molecular Orbitals
   - Formation of Homo and Hetero Diatomic Molecules

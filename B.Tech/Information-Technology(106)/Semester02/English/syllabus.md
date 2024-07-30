@@ -1,6 +1,8 @@
 
 ### English (L: 2; T: 0; P: 2; Credit: 3)
 
+### SUBJECT code: 100206
+
 **1. Vocabulary Building:**
    - The concept of word formation
    - Root words from foreign languages and their use in English

@@ -1,4 +1,6 @@
+Subject name: PROGRAMMING FOR PROBLEM SOLVING
 
+Subject code: 100204
 ### MODULE 1: INTRODUCTION TO PROGRAMMING (6 LECTURES)
 - **Components of a Computer System**
   - Disks
