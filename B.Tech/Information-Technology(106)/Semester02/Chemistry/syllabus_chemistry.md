@@ -29,7 +29,7 @@ Subject Code: 100203
 
 ### **MODULE 2: SPECTROSCOPIC TECHNIQUES AND APPLICATIONS (8 LECTURES)**
 
-- **Principles of Vibrational and Rotational Spectroscopy**
+- **Principles of Vibrational and Rotational [Spectroscopy](./key-concept/spectroscopy.md)**
   - Selection Rules for Diatomic Molecules
 
 - **Electronic Spectroscopy**
