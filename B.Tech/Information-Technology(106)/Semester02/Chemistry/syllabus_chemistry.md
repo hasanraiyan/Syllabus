@@ -16,10 +16,10 @@ Subject Code: 100203
     - Heisenberg Uncertainty Principle
 
 -  **Molecular Properties**
-  - Paramagnetic Properties
-  - Principles for Combination of Atomic Orbitals to Form Molecular Orbitals
-  - Formation of Homo and Hetero Diatomic Molecules
-  - Energy Level Diagrams of Molecular Orbitals
+      - Paramagnetic Properties
+      - Principles for Combination of Atomic Orbitals to Form Molecular Orbitals
+      - Formation of Homo and Hetero Diatomic Molecules
+      - Energy Level Diagrams of Molecular Orbitals
 
 - **Coordination Numbers and Geometries**
   - Isomerism in Transition Metal Compounds
