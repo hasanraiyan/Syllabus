@@ -2,7 +2,7 @@ subject name: MATHEMATICS - II (PROBABILITY AND STATISTICS)
 
 subject code: 105202 
 ### MODULE 1: BASIC PROBABILITY (12 LECTURES)
-- Probability Spaces
+- [x] Probability Spaces
 - Conditional Probability
 - Independence
 - Discrete Random Variables
